@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ahmed"
+    },
+    {
+      "id": "2",
+      "name": "Khaled"
+    },
+    {
+      "id": "3",
+      "name": "Tom"
+    },
+    {
+      "id": "4",
+      "name": "Anna"
+    }
+  ],
+  "email": [
+    {
+      "id": "1",
+      "email": "Ahmed@mail.com"
+    },
+    {
+      "id": "2",
+      "email": "Khaled@mail.com"
+    },
+    {
+      "id": "3",
+      "email": "Tom.mail.com"
+    },
+    {
+      "id": "4",
+      "email": "Anaa@mail.com"
+    }
+  ],
+  "password": [
+    {
+      "id": "1",
+      "password": "111111"
+    },
+    {
+      "id": "2",
+      "password": "222222"
+    },
+    {
+      "id": "3",
+      "password": "333333"
+    },
+    {
+      "id": "4",
+      "password": "444444"
+    }
+  ],
+  "nationality": [
+    {
+      "id": "1",
+      "nationality": "egyptian"
+    },
+    {
+      "id": "2",
+      "nationality": "egyptian "
+    },
+    {
+      "id": "3",
+      "nationality": "german"
+    },
+    {
+      "id": "4",
+      "nationality": "American"
+    }
+  ],
+  "age": [
+    {
+      "id": "1",
+      "age": "25"
+    },
+    {
+      "id": "2",
+      "age": "26 "
+    },
+    {
+      "id": "3",
+      "age": "27"
+    },
+    {
+      "id": "4",
+      "age": "28"
+    }
+  ],
+  "AllData": [
+    {
+      "id": "1",
+      "name": "Ahmed",
+      "email": "Ahmed@mail.com",
+      "password": "111111",
+      "nationality": "egyptian",
+      "age": "25"
+    },
+    {
+      "id": "2",
+      "name": "Khaled",
+      "email": "Khaled@mail.com",
+      "password": "222222",
+      "nationality": "egyptian",
+      "age": "26"
+    },
+    {
+      "id": "3",
+      "name": "Tom",
+      "email": "Tom@mail.com",
+      "password": "333333",
+      "nationality": "German",
+      "age": "27"
+    },
+    {
+      "id": "4",
+      "name": "Anna",
+      "email": "Anna@mail.com",
+      "password": "444444",
+      "nationality": "American",
+      "age": "28"
+    }
+  ]
+}
